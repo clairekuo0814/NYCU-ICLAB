@@ -1,0 +1,4 @@
+TESTBED.v
+../04_MEM/MEM32x32.v
+../04_MEM/MEM5x5.v
+../04_MEM/MEM36x36.v
